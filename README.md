@@ -30,11 +30,10 @@
 
 <h2 align="center">GitHub Stats:</h2>
 
-
-<div style="width: 100%; height: fit-content; display: flex; flex-direction: row; justify-content: center;" >
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevin2606&show_icons=true&theme=dark&locale=en&layout=compact" alt="kevin2606" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=kevin2606&theme=dark" alt="kevin2606" /></p>
+<div align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=kevin2606&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=kevin2606&theme=react"/>
+  <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=kevin2606&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 </div>
-<p><img src="https://res.cloudinary.com/dulupp7yk/image/upload/v1685208508/torresdehanoi/giyu_nkp2ju.png" /></p>
+<a align="center" href="https://github.com/kevin2606/github-stats"></a>
+
 </div>
