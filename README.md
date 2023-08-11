@@ -10,7 +10,7 @@
 <img align="right" alt="coding_img" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
   <p><img src="https://komarev.com/ghpvc/?username=kevin2606&label=Profile%20views&color=0e75b6&style=flat" alt="kevin2606" /> </p>
   
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Flutter or Dart**
 
